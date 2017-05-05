@@ -1,0 +1,1 @@
+widows -a lyra2z -o stratum+tcp://europe.lyra2z-hub.miningpoolhub.com:20581 -u <username>.<workername> -p <password>
